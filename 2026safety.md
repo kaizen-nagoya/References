@@ -37,3 +37,11 @@
 ¥bibitem{anzen20194} Application of Safety Analysis Methods in Disaster Relief Radio Systems: Kiyoshi Ogawa, Naoki Saito, Tsuyoshi Mase, Kazune Matsubara, Takashi Murakami, Koji Kodera, Hitoshi Fukuda 
 
 ¥bibitem{anzen20195} Proposal for a graphical representation method for safety analysis and a tool highly compatible with design documents. Nobuaki Tanaka, Kiyoshi Ogawa
+
+¥bibitem{hazop2009} Introduction HAZOP, Kiyoshi Ogawa, IPEJ2012.7
+
+¥bibitem{matlab2026} matlab LT, Kiyoshi Ogawa 202606
+
+¥bibitem{llm202605} FPGA usign LLM, Kiyoshi Ogawa, paper and hacks 20260519
+
+¥bibitem{kouno} Proposal of sarety oriented analysis approach based on automotive products case study on safety oriented analysis of electric parking brake system, Fumiaki Kono. Hidekazu Nishimura, Keio Univ. 2018 
